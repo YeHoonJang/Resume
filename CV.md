@@ -36,7 +36,7 @@ Github: [https://github.com/YeHoonJang][1]
 - Other Projects
   * Analyzing the Technology Market and Planning Business Strategy - Battery Technology for Electric Vehicle ([Presentation][4])
   * Kaggle Competition - Two Sigma Connect:Rental Listing Inquiries
-  * Development of Web Page - Connecting Service for Goods Rental between Students
+  * Development of Web Page - Connecting Service for Goods Rental between Students in Gachon University
   * Gachon Hackathon - Development of Keyword Based Community using Vue, Firebase, etc.([Keyworld web page][9])
 
 
