@@ -24,7 +24,7 @@ Github: [https://github.com/YeHoonJang][1]
 - 2016-겨울학기 생활코딩
   * 웹프로그래밍 언어와 Django를 활용하여 가천대학교 학생들을 위한 물품대여 서비스 개발
 - 2017-1학기 고객관계관리 프로젝트
-  * Pandas, Numpy, ScikitLearn, Django 등을 사용하여 아마존 Book Review Data를 활용하여 사용자의 별점 예측 서비스 개발 ([모델 Code][5], [Django Code][6], [발표자료][7])
+  * Pandas, Numpy, ScikitLearn, Django 등을 사용하여 아마존 Book Review Data를 활용한 사용자의 별점 예측 서비스 개발 ([모델 Code][5], [Django Code][6], [발표자료][7])
   * Kaggle "Two Sigma Connect:Rental Listing Inquiries" Competition 참가
 - 2017-여름학기 PatAlquimista 프로젝트
   * Google에서 제공하는 USPTO Bulk Data 크롤링 및 다운로드 자동화 모듈 개발 ([Code][8])
