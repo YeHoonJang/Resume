@@ -29,7 +29,7 @@ Github: [https://github.com/YeHoonJang][1]
 - 2017-여름학기 PatAlquimista 프로젝트
   * Google에서 제공하는 USPTO Bulk Data 크롤링 및 다운로드 자동화 모듈 개발 ([Code][8])
 - 2017-2학기 Gachon Hackathon
-  * Vue, Firebase를 활용하여 Keyword 기반의 커뮤니티 개발 ([웹페이지][9])
+  * Vue, Firebase를 활용하여 Keyword 기반의 커뮤니티 "Key World" 개발 ([Keyworld 웹페이지][9])
 - 2017-2학기~
   * US 특허 데이터를 활용한 Garbage Patent Classifier 개발
 
