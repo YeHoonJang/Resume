@@ -14,14 +14,14 @@ Github: [https://github.com/YeHoonJang][1]
   + HTML, CSS, JavaScript, JQuery
   + Experienced: NodeJS, Django, Vue
 - Data Analysis
-  + Pandas, Numpy, ScikitLearn
-  + Experienced: TensorFlow
+  + Pandas, Numpy, ScikitLearn, TensorFlow
+  + Experienced: Keras
 - Database
   + MySQL
 - Operating System
-  + Ubuntu(Linux)
+  + Ubuntu(Linux), CentOS(Linux)
 - Others
-  + Git, Github, Jupyter, Jetbrains IDE(PyCharm, WebStorm)
+  + Git, Github, Jupyter, Jetbrains IDE(PyCharm, WebStorm), IBM Watson
   + Experienced: Firebase, Google Cloud
 
 ### Project
@@ -31,13 +31,14 @@ Github: [https://github.com/YeHoonJang][1]
   * Development of 'Predicting User's Star Level' Sevice from Amazon Book Review Data using Pandas, Numpy, ScikitLearn, Django, etc. ([Model Code][5], [Django Code][6], [Presentation][7])
 - 2017 Summer **PatAlquimista Project**
   * Development of Automation Module of Crawling and Downloading of USPTO Bulk Data from Google ([Code][8])
-- 2017 Fall ~
+- 2017 Fall ~ 2018 Spring
   * Development of Garbage Patent Classifier using US Patent
 - Other Projects
   * Analyzing the Technology Market and Planning Business Strategy - Battery Technology for Electric Vehicle ([Presentation][4])
   * Kaggle Competition - Two Sigma Connect:Rental Listing Inquiries
   * Development of Web Page - Connecting Service for Goods Rental between Students in Gachon University
   * Gachon Hackathon - Development of Keyword Based Community using Vue, Firebase, etc.([Keyworld web page][9])
+  * Information System Analysis and Structure - Design of Personalized Travel Information Recommendation System
 
 
 ### Study
@@ -54,8 +55,10 @@ Github: [https://github.com/YeHoonJang][1]
     + Lec6. Practical tips: gradient checks, overfitting, regularization,
 activation functions, details ([Presentation][13])
   * Issue Seminar
-- 2017 Winter ~
+- 2017 Winter
   * Coding Interview Study
+- 2018 Spring ~
+  * ESL Study
 
 ### Experience
 - TA
@@ -66,6 +69,8 @@ activation functions, details ([Presentation][13])
   * 2017 Fall
     + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University
     + 'Introduction of Python for Data Science' TA at K-MOOC
+  * 2018 Spring
+     + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University
 
 [1]: https://github.com/YeHoonJang
 [2]: https://github.com/TeamLab/data_summer_school_labs
