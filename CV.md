@@ -4,31 +4,8 @@ Mobile: +82 10-7169-2690</br>
 Github: [https://github.com/YeHoonJang][1]
 *****
 ### Education
-- Undergraduates at Department of **Industrial&Management Engineering** and **Computer Engineering** (Double Major) (Feb 2020, Expected Graduation), Gachon University(Sungnam, Gyeonggi)
+- Undergraduates at Department of **Industrial&Management Engineering** and **Computer Engineering** (Double Major) (Feb 2020, Expected Graduation), Gachon University(Sungnam, Gyeonggi)  
 
-### Skills
-- **Languages**
-  + Python
-  + Experienced: Java, Kotlin  
-
-- **Data Analysis**
-  + Pandas, Numpy, ScikitLearn, TensorFlow
-  + Experienced: Keras  
-
-- **Web**
-  + Django, HTML, CSS, JavaScript, JQuery
-  + Experienced: NodeJS, Vue, PHP  
-
-- **Database**
-  + MySQL
-  + Experienced: Redis, SQLite, AWS S3  
-
-- **Operating System**
-  + Ubuntu(Linux), CentOS(Linux)  
-
-- **Others**
-  + Git, Github, Jupyter, Jetbrains IDE(PyCharm, WebStorm, IntelliJ IDEA), ELK, AWS CloudWatch, Grafana
-  + Experienced: AWS RDS, Docker, Firebase, Google Cloud, IBM Watson
 
 ### Projects
 - **2017 Fall ~ 2018 Spring Garbage Patent Classifier Project**
@@ -75,6 +52,10 @@ activation functions, details ([Presentation][13])
   * Coursera - Neural Networks for Machine Learning(by University of Toronto)
 
 ### Experiences
+- **Intern**
+  * 2018.07 - 2019.01
+    + INI SOFT Co.
+
 - **TA**
   * 2018 Spring
     + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University  
@@ -87,6 +68,31 @@ activation functions, details ([Presentation][13])
 
   * 2016 Fall
     + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University  
+
+
+### Skills
+- **Languages**
+  + Python
+  + Experienced: Java, Kotlin  
+
+- **Data Analysis**
+  + Pandas, Numpy, ScikitLearn, TensorFlow
+  + Experienced: Keras  
+
+- **Web**
+  + Django, HTML, CSS, JavaScript, JQuery
+  + Experienced: NodeJS, Vue, PHP  
+
+- **Database**
+  + MySQL
+  + Experienced: Redis, SQLite, AWS S3  
+
+- **Operating System**
+  + Ubuntu(Linux), CentOS(Linux)  
+
+- **Others**
+  + Git, Github, Jupyter, Jetbrains IDE(PyCharm, WebStorm, IntelliJ IDEA), ELK, AWS CloudWatch, Grafana
+  + Experienced: AWS RDS, Docker, Firebase, Google Cloud, IBM Watson
 
 
 
