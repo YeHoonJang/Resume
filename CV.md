@@ -77,17 +77,16 @@ activation functions, details ([Presentation][13])
 ### Experiences
 - **TA**
   * 2018 Spring
-     + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University  
+    + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University  
+  * 2017 Fall
+    + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University
+    + 'Introduction of Python for Data Science' TA at K-MOOC  
 
- * 2017 Fall
-   + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University
-   + 'Introduction of Python for Data Science' TA at K-MOOC  
+  * 2017 Spring
+    + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University  
 
- * 2017 Spring
-   + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University  
-
- * 2016 Fall
-   + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University  
+  * 2016 Fall
+    + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University  
 
 
 
