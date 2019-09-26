@@ -4,35 +4,41 @@ Mobile: +82 10-7169-2690</br>
 Github: [https://github.com/YeHoonJang][1]
 *****
 ### Education
-- Undergraduates at Department of Industrial&Management Engineering and Computer Engineering (Double Major) (Feb 2019, Expected Graduation), Gachon University(Sungnam, Gyeonggi)
+- Undergraduates at Department of **Industrial&Management Engineering** and **Computer Engineering** (Double Major) (Feb 2020, Expected Graduation), Gachon University(Sungnam, Gyeonggi)
 
-### Skill
-- Languages
+### Skills
+- **Languages**
   + Python
-  + Experienced: Java, C++
-- Web
-  + HTML, CSS, JavaScript, JQuery
-  + Experienced: NodeJS, Django, Vue
-- Data Analysis
-  + Pandas, Numpy, ScikitLearn, TensorFlow
-  + Experienced: Keras
-- Database
-  + MySQL
-- Operating System
-  + Ubuntu(Linux), CentOS(Linux)
-- Others
-  + Git, Github, Jupyter, Jetbrains IDE(PyCharm, WebStorm), IBM Watson
-  + Experienced: Firebase, Google Cloud
+  + Experienced: Java, Kotlin  
 
-### Project
-- 2016 Summer **[Data Science Summer School][2]**
-  * Data Analysis and Model Training using Pandas, Numpy and ScikitLearn (Team C-Nursery Data Set , [Code][3])
-- 2017 Spring **Business Intelligence Project**
-  * Development of 'Predicting User's Star Level' Sevice from Amazon Book Review Data using Pandas, Numpy, ScikitLearn, Django, etc. ([Model Code][5], [Django Code][6], [Presentation][7])
-- 2017 Summer **PatAlquimista Project**
-  * Development of Automation Module of Crawling and Downloading of USPTO Bulk Data from Google ([Code][8])
+- **Data Analysis**
+  + Pandas, Numpy, ScikitLearn, TensorFlow
+  + Experienced: Keras  
+
+- **Web**
+  + Django, HTML, CSS, JavaScript, JQuery
+  + Experienced: NodeJS, Vue, PHP  
+
+- **Database**
+  + MySQL
+  + Experienced: Redis, SQLite, AWS S3  
+
+- **Operating System**
+  + Ubuntu(Linux), CentOS(Linux)  
+
+- **Others**
+  + Git, Github, Jupyter, Jetbrains IDE(PyCharm, WebStorm, IntelliJ IDEA), ELK, AWS CloudWatch, Grafana
+  + Experienced: AWS RDS, Docker, Firebase, Google Cloud, IBM Watson
+
+### Projects
 - 2017 Fall ~ 2018 Spring
   * Development of Garbage Patent Classifier using US Patent
+- 2017 Summer **PatAlquimista Project**
+  * Development of Automation Module of Crawling and Downloading of USPTO Bulk Data from Google ([Code][8])
+- 2017 Spring **Business Intelligence Project**
+  * Development of 'Predicting User's Star Level' Sevice from Amazon Book Review Data using Pandas, Numpy, ScikitLearn, Django, etc. ([Model Code][5], [Django Code][6], [Presentation][7])
+- 2016 Summer **[Data Science Summer School][2]**
+  * Data Analysis and Model Training using Pandas, Numpy and ScikitLearn (Team C-Nursery Data Set , [Code][3])
 - Other Projects
   * Analyzing the Technology Market and Planning Business Strategy - Battery Technology for Electric Vehicle ([Presentation][4])
   * Kaggle Competition - Two Sigma Connect:Rental Listing Inquiries
