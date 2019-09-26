@@ -31,15 +31,19 @@ Github: [https://github.com/YeHoonJang][1]
   + Experienced: AWS RDS, Docker, Firebase, Google Cloud, IBM Watson
 
 ### Projects
-- 2017 Fall ~ 2018 Spring
-  * Development of Garbage Patent Classifier using US Patent
-- 2017 Summer **PatAlquimista Project**
-  * Development of Automation Module of Crawling and Downloading of USPTO Bulk Data from Google ([Code][8])
-- 2017 Spring **Business Intelligence Project**
-  * Development of 'Predicting User's Star Level' Sevice from Amazon Book Review Data using Pandas, Numpy, ScikitLearn, Django, etc. ([Model Code][5], [Django Code][6], [Presentation][7])
-- 2016 Summer **[Data Science Summer School][2]**
-  * Data Analysis and Model Training using Pandas, Numpy and ScikitLearn (Team C-Nursery Data Set , [Code][3])
-- Other Projects
+- **2017 Fall ~ 2018 Spring Garbage Patent Classifier Project**
+  * Development of Garbage Patent Classifier using US Patent  
+
+- **2017 Summer PatAlquimista Project**
+  * Development of Automation Module of Crawling and Downloading of USPTO Bulk Data from Google ([Code][8])  
+
+- **2017 Spring Business Intelligence Project**
+  * Development of 'Predicting User's Star Level' Sevice from Amazon Book Review Data using Pandas, Numpy, ScikitLearn, Django, etc. ([Model Code][5], [Django Code][6], [Presentation][7])  
+
+- **2016 Summer [Data Science Summer School][2]**
+  * Data Analysis and Model Training using Pandas, Numpy and ScikitLearn (Team C-Nursery Data Set , [Code][3])  
+
+- **Other Projects**
   * Analyzing the Technology Market and Planning Business Strategy - Battery Technology for Electric Vehicle ([Presentation][4])
   * Kaggle Competition - Two Sigma Connect:Rental Listing Inquiries
   * Development of Web Page - Connecting Service for Goods Rental between Students in Gachon University
@@ -48,11 +52,13 @@ Github: [https://github.com/YeHoonJang][1]
 
 
 ### Study
-- 2016 Winter
-  * Coursera - Neural Networks for Machine Learning(by University of Toronto)
-- 2017 Spring
-  * Python Advance
-- 2017 Summer
+- **2018 Spring**
+  * ESL Study  
+
+- **2017 Winter**
+  * Coding Interview Study  
+
+- **2017 Summer**
   * CS20SI
     + Lec4. Structure Your TensorFlow Model ([Presentation][10])
     + Lec9. Input Pipeline ([Presentation][11])
@@ -60,23 +66,33 @@ Github: [https://github.com/YeHoonJang][1]
     + Lec1. Intro to NLP and Deep Learning ([Presentation][12])
     + Lec6. Practical tips: gradient checks, overfitting, regularization,
 activation functions, details ([Presentation][13])
-  * Issue Seminar
-- 2017 Winter
-  * Coding Interview Study
-- 2018 Spring ~
-  * ESL Study
+  * Issue Seminar  
 
-### Experience
-- TA
-  * 2016 Fall
-    + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University
-  * 2017 Spring
-    + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University
-  * 2017 Fall
-    + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University
-    + 'Introduction of Python for Data Science' TA at K-MOOC
+- **2017 Spring**
+  * Python Advance  
+
+- **2016 Winter**
+  * Coursera - Neural Networks for Machine Learning(by University of Toronto)
+
+### Experiences
+- **TA**
   * 2018 Spring
-     + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University
+     + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University  
+
+ * 2017 Fall
+   + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University
+   + 'Introduction of Python for Data Science' TA at K-MOOC  
+
+ * 2017 Spring
+   + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University  
+
+ * 2016 Fall
+   + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University  
+
+
+
+
+
 
 [1]: https://github.com/YeHoonJang
 [2]: https://github.com/TeamLab/data_summer_school_labs
