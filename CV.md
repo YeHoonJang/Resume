@@ -15,7 +15,7 @@ Github: [https://github.com/YeHoonJang][1]
   * Database Development of Asynchronous File Relocation System ([Report][18], [Code][19])
 
 - **2017 Fall ~ 2018 Spring - Garbage Patent Classifier Project**
-  * Development of Garbage Patent Classifier using US Patent([Presentation][15], [Poster][16], )  
+  * Development of Garbage Patent Classifier using US Patent([Presentation][15], [Poster][16])  
 
 - **2017 Summer - PatAlquimista Project**
   * Development of Automation Module of Crawling and Downloading of USPTO Bulk Data from Google ([Code][8])  
