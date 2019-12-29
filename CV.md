@@ -8,6 +8,15 @@ Github: [https://github.com/YeHoonJang][1]
 
 
 ### Projects
+- **2018 Winter ~ 2019 - Abnormaly Data Detection of QoE**
+  * Data Analysis and Model Training using Pandas, Numpy and ScikitLearn with QoE Data ([Presentation][25])
+
+- **2018 Winter Server Monitoring System**
+  * Development Server Monitoring System using Grafana, AWS CloudWatch, ElasticSearch, Docker, etc. ([Report][20])
+
+- **2018 Fall - Asynchronous File Lelocation Sytem**
+  * Development of DB System and Video Lelocation Function ([Report][23], [Code][24])
+
 - **2018 Summer - Video Management Paltform**
   * Development of Video Deletion Function in Video Management Platform using Wordpress, LAMP, PHP ([Report][14], [Code][17])  
 
@@ -27,7 +36,6 @@ Github: [https://github.com/YeHoonJang][1]
   * Data Analysis and Model Training using Pandas, Numpy and ScikitLearn (Team C-Nursery Data Set , [Code][3])  
 
 - **Other Projects**
-  * Development Server Monitoring System using Grafana, AWS CloudWatch, ElasticSearch, Docker, etc. ([Report][20])
   * Analyzing the Technology Market and Planning Business Strategy - Battery Technology for Electric Vehicle ([Presentation][4])
   * Kaggle Competition - Two Sigma Connect:Rental Listing Inquiries
   * Development of Web Page - Connecting Service for Goods Rental between Students in Gachon University
@@ -133,3 +141,6 @@ activation functions, details ([Presentation][13])
 [20]: https://github.com/YeHoonJang/report/blob/master/grafana/grafana_report.md
 [21]: https://github.com/YeHoonJang/report/blob/master/donghwa/n%EB%B2%88%EC%A7%B8.pdf
 [22]: https://github.com/YeHoonJang/report/blob/master/donghwa/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%B2%AB%EA%B1%B8%EC%9D%8C.pdf
+[23]: https://github.com/ini-intern/report/blob/master/final_project/yehoon_final_project_report.md
+[24]: https://github.com/ini-intern/report/tree/master/final_project/source
+[25]: https://github.com/YeHoonJang/report/blob/master/abnormaly_project/ini-intern%20final%20project.pdf
