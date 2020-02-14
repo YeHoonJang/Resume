@@ -1,33 +1,33 @@
-## **Yehoon Jang**
+## **장예훈**
 E-mail: jangyh0420@gmail.com</br>
-Mobile: +82 10-7169-2690</br>
+연락처: +82 10-7169-2690</br>
 Github: [https://github.com/YeHoonJang][1]
 *****
-### Education
-- Undergraduates at Department of **Industrial&Management Engineering** and **Computer Engineering** (Double Major) (Feb 2020, Expected Graduation), Gachon University(Sungnam, Gyeonggi)  
+### 학력
+- 가천대학교 산업경영공학과, 컴퓨터공학과(복수전공) (2020년 02월 졸업예정)  
 
 
-### Projects
-- **2018 Winter ~ 2019 - Abnormaly Data Detection of QoE**
-  * Data Analysis and Model Training using Pandas, Numpy and ScikitLearn with QoE Data ([Presentation][25])
+### 프로젝트
+- **2018 겨울 ~ 2019 - QoE 데이터 이상감지 탐지**
+  * QoE 데이터 분석 및 모델 학습 - Pandas, Numpy and ScikitLearn ([ppt][25])
 
-- **2018 Winter Server Monitoring System**
-  * Development Server Monitoring System using Grafana, AWS CloudWatch, ElasticSearch, Docker, etc. ([Report][20])
+- **2018 겨울 - 서버 모니터링 시스템**
+  * 서버 모니터링 시스템 개발 - Grafana, AWS CloudWatch, ElasticSearch, Docker, etc. ([보고서][20])
 
-- **2018 Fall - Asynchronous File Relocation Sytem**
-  * Development of DB System and Video Lelocation Function ([Report][23], [Code][24])
+- **2018 가을 - 비동기 파일 재배치 시스템**
+  * DB 구축 및 비디오 파일 재배치 기능 개발 ([보고서][23], [코드][24])
 
-- **2018 Summer - Video Management Paltform**
-  * Development of Video Deletion Function in Video Management Platform using Wordpress, LAMP, PHP ([Report][14], [Code][17])  
+- **2018 여름 - 비디오 관리 플랫픔**
+  * 비디오 관리 플랫폼 내 비디오 삭제 기능 개발 - Wordpress, LAMP, PHP ([보고서][14], [코드][17])  
 
-- **2017 Fall ~ 2018 Spring - Garbage Patent Classifier Project**
-  * Development of Garbage Patent Classifier using US Patent([Presentation][15], [Poster][16])  
+- **2017 가을 ~ 2018 봄 - 유효특허 분류기 프로젝트**
+  * 유효특허 분류기 개발 - US Patent([ppt][15], [포스터][16])  
 
-- **2017 Summer - PatAlquimista Project**
-  * Development of Automation Module of Crawling and Downloading of USPTO Bulk Data from Google ([Code][8])  
+- **2017 여름 - PatAlquimista 프로젝트**
+  * 구글 USPTO 벌크 데이터 자동 크롤링 및 다운로드 모듈 개발 ([코드][8])  
 
-- **2017 Spring - Business Intelligence Project**
-  * Development of 'Predicting User's Star Level' Sevice from Amazon Book Review Data using Pandas, Numpy, ScikitLearn, Django, etc. ([Model Code][5], [Django Code][6], [Presentation][7])  
+- **2017 봄 - Business Intelligence 프로젝트**
+  * Development of 'Predicting User's ㄴStar Level' Sevice from Amazon Book Review Data using Pandas, Numpy, ScikitLearn, Django, etc. ([Model Code][5], [Django Code][6], [Presentation][7])  
 
 - **2016 Summer - Data Science Summer School**
   * Data Analysis and Model Training using Pandas, Numpy and ScikitLearn (Team C-Nursery Data Set , [Code][3])  
