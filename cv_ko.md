@@ -9,7 +9,7 @@ Github: [https://github.com/YeHoonJang][1]
 
 ### 프로젝트
 - **2018 겨울 ~ 2019 - QoE 데이터 이상감지 탐지**
-  * QoE 데이터 분석 및 모델 학습 - Pandas, Numpy and ScikitLearn ([ppt][25])
+  * QoE 데이터 분석 및 모델 학습 - Pandas, Numpy and ScikitLearn ([발표자료][25])
 
 - **2018 겨울 - 서버 모니터링 시스템**
   * 서버 모니터링 시스템 개발 - Grafana, AWS CloudWatch, ElasticSearch, Docker, etc. ([보고서][20])
@@ -27,60 +27,57 @@ Github: [https://github.com/YeHoonJang][1]
   * 구글 USPTO 벌크 데이터 자동 크롤링 및 다운로드 모듈 개발 ([코드][8])  
 
 - **2017 봄 - Business Intelligence 프로젝트**
-  * Development of 'Predicting User's ㄴStar Level' Sevice from Amazon Book Review Data using Pandas, Numpy, ScikitLearn, Django, etc. ([Model Code][5], [Django Code][6], [Presentation][7])  
+  * 아마존 북 리뷰 데이터를 활용한 독자 리뷰 기반 별점 예측 서비스 개발 - Pandas, Numpy, ScikitLearn, Django, etc. ([모델 코드][5], [Django 코드][6], [발표자료][7])  
 
-- **2016 Summer - Data Science Summer School**
-  * Data Analysis and Model Training using Pandas, Numpy and ScikitLearn (Team C-Nursery Data Set , [Code][3])  
+- **2016 Summer - 데이터 과학 여름 학교**
+  * 양육 데이터 분석 및 예측 모델 학습 프로젝트 - Pandas, Numpy and ScikitLearn ([코드][3])  
 
-- **Other Projects**
-  * Analyzing the Technology Market and Planning Business Strategy - Battery Technology for Electric Vehicle ([Presentation][4])
-  * Kaggle Competition - Two Sigma Connect:Rental Listing Inquiries
-  * Development of Web Page - Connecting Service for Goods Rental between Students in Gachon University
-  * Gachon Hackathon - Development of Keyword Based Community using Vue, Firebase, etc.
-  * Information System Analysis and Structure - Design of Personalized Travel Information Recommendation System
-  * Development of Android Application - Connecting Service for Goods Rental between Students in Gachon University
+- **기타 프로젝트**
+  * 기술 시장 분석 및 비즈니스 전략 계획 - 전기자동차 배터리 기술 ([발표자료][4])
+  * 캐글 - Two Sigma Connect:Rental Listing Inquiries
+  * 가천대학교 학생간 물품 대여 서비스 웹페이지 설계
+  * 가천 해커톤 - 키워드 기반 커뮤니티 - Vue, Firebase, etc.
+  * 정보 시스템 분석 및 설계 - 개인 최적화 여행 정보 추천 시스템 설계
+  * 가천대학교 학생간 물품 대여 서비스 앱 개발 프로젝트
 
 
 
-### Study
-- **2018 Spring**
-  * ESL Study  
+### 스터디
+- **2017 겨울**
+  * 코딩 인터뷰 스터디  
 
-- **2017 Winter**
-  * Coding Interview Study  
-
-- **2017 Summer**
+- **2017 여름**
   * CS20SI
-    + Lec4. Structure Your TensorFlow Model ([Presentation][10])
-    + Lec9. Input Pipeline ([Presentation][11])
+    + Lec4. Structure Your TensorFlow Model ([발표자료][10])
+    + Lec9. Input Pipeline ([발표자료][11])
   * CS224D
-    + Lec1. Intro to NLP and Deep Learning ([Presentation][12])
+    + Lec1. Intro to NLP and Deep Learning ([발표자료][12])
     + Lec6. Practical tips: gradient checks, overfitting, regularization,
-activation functions, details ([Presentation][13])
-  * Issue Seminar  
+activation functions, details ([발표자료][13])
+  * 기술 이슈 세미나  
 
-- **2017 Spring**
-  * Python Advance  
+- **2017 봄**
+  * 파이썬 심화  
 
-- **2016 Winter**
+- **2016 겨울**
   * Coursera - Neural Networks for Machine Learning(by University of Toronto)
 
-### Experiences
-- **Lecture**
-  * 2019.07
-    + Into the Data Science - Nth Challenge ([Presentation][21])
-    + The First Step of Big Data ([Presentation][22])
+### 그 외 활동
+- **강의**
+  * 2019.07 (동화고등학교)
+    + 데이터 과학 입문기 - N번째 도전 ([발표자료][21])
+    + 빅데이터 첫걸음 ([발표자료][22])
 
-- **Intern**
+- **인턴**
   * 2018.07 - 2019.01
-    + INI SOFT Co.
+    + (주)아이앤아이소프트
 
 - **TA**
-  * 2018 Spring
-    + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University  
-  * 2017 Fall
-    + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University
-    + 'Introduction of Python for Data Science' TA at K-MOOC  
+  * 2018 봄
+    + '프로그래밍입문 with Python' TA 가천대학교 가천CS50
+  * 2017 가을
+    + '프로그래밍입문 with Python' TA 가천대학교 산업경영공학과
+    + '데이터 과학을 위한 파이썬 입문' TA K-MOOC  
 
   * 2017 Spring
     + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University  

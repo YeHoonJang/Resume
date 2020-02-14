@@ -27,7 +27,7 @@ Github: [https://github.com/YeHoonJang][1]
   * Development of Automation Module of Crawling and Downloading of USPTO Bulk Data from Google ([Code][8])  
 
 - **2017 Spring - Business Intelligence Project**
-  * Development of 'Predicting User's Star Level' Sevice from Amazon Book Review Data using Pandas, Numpy, ScikitLearn, Django, etc. ([Model Code][5], [Django Code][6], [Presentation][7])  
+  * Development of 'Predicting User's Star Level' Service from Amazon Book Review Data using Pandas, Numpy, ScikitLearn, Django, etc. ([Model Code][5], [Django Code][6], [Presentation][7])  
 
 - **2016 Summer - Data Science Summer School**
   * Data Analysis and Model Training using Pandas, Numpy and ScikitLearn (Team C-Nursery Data Set , [Code][3])  
@@ -43,9 +43,6 @@ Github: [https://github.com/YeHoonJang][1]
 
 
 ### Study
-- **2018 Spring**
-  * ESL Study  
-
 - **2017 Winter**
   * Coding Interview Study  
 
