@@ -70,43 +70,43 @@ activation functions, details ([발표자료][13])
 
 - **인턴**
   * 2018.07 - 2019.01
-    + (주)아이앤아이소프트
+    + (주)아이앤아이소프트 서버팀
 
 - **TA**
   * 2018 봄
-    + '프로그래밍입문 with Python' TA 가천대학교 가천CS50
+    + 가천대학교 가천CS50 '프로그래밍입문 with Python' TA
   * 2017 가을
-    + '프로그래밍입문 with Python' TA 가천대학교 산업경영공학과
-    + '데이터 과학을 위한 파이썬 입문' TA K-MOOC  
+    + 가천대학교 산업경영공학과 '프로그래밍입문 with Python' TA
+    + K-MOOC '데이터 과학을 위한 파이썬 입문' TA   
 
-  * 2017 Spring
-    + 'Introduction of Programming with Python' TA at Gachon CS50, Gachon University  
+  * 2017 qha
+    + 가천대학교 가천CS50 '프로그래밍입문 with Python' TA  
 
   * 2016 Fall
-    + 'Introduction of Programming with Python' TA at Department of Industrial&Management Engineering, Gachon University  
+    + 가천대학교 산업경영공학과 '프로그래밍입문 with Python' TA  
 
 
-### Skills
-- **Languages**
+### 보유 기술
+- **프로그래밍 언어**
   + Python
   + Experienced: R, Java, Kotlin  
 
-- **Data Analysis**
+- **데이터 분석**
   + Pandas, Numpy, ScikitLearn, TensorFlow
   + Experienced: Keras  
 
-- **Web**
+- **웹**
   + Django, HTML, CSS, JavaScript, JQuery
   + Experienced: NodeJS, Vue, PHP  
 
-- **Database**
+- **데이터베이스**
   + MySQL
   + Experienced: Redis, SQLite, AWS S3  
 
-- **Operating System**
+- **운영체제**
   + Ubuntu(Linux), CentOS(Linux)  
 
-- **Others**
+- **기타**
   + Git, Github, Jupyter, Jetbrains IDE(PyCharm, WebStorm, IntelliJ IDEA), ELK, AWS CloudWatch, Grafana
   + Experienced: AWS RDS, Docker, Firebase, Google Cloud, IBM Watson
 

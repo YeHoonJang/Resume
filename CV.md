@@ -70,7 +70,8 @@ activation functions, details ([Presentation][13])
 
 - **Intern**
   * 2018.07 - 2019.01
-    + INI SOFT Co.
+    + INI SOFT Co. Server Dept.
+
 
 - **TA**
   * 2018 Spring
