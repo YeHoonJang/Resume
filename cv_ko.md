@@ -6,10 +6,15 @@ Github: [https://github.com/YeHoonJang][1]
 ### 학력
 - 가천대학교 산업경영공학과, 컴퓨터공학과(복수전공) (2015년 3월 - 2020년 2월)  
 
+### 자격증  
+- ADsP 취득 (2020년 7월)
 
 ### 프로젝트
+- **2020 빅콘테스트**  
+  * 혁신아이디어분야 참가 <데일리 코로나> - Pandas, GeoPandas, Numpy, ScikitLearn, Keras, etc.  
+
 - **2018 겨울 ~ 2019 - QoE 데이터 이상감지 탐지**
-  * QoE 데이터 분석 및 모델 학습 - Pandas, Numpy and ScikitLearn ([발표자료][25])
+  * QoE 데이터 분석 및 모델 학습 - Pandas, Numpy, ScikitLearn ([발표자료][25])
 
 - **2018 겨울 - 서버 모니터링 시스템**
   * 서버 모니터링 시스템 개발 - Grafana, AWS CloudWatch, ElasticSearch, Docker, etc. ([보고서][20])
@@ -43,6 +48,9 @@ Github: [https://github.com/YeHoonJang][1]
 
 
 ### 스터디
+- **2019 겨울~2020봄**  
+  * 파이썬 알고리즘 스터디  
+
 - **2017 겨울**
   * 코딩 인터뷰 스터디  
 
