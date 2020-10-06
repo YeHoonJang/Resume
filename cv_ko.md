@@ -1,6 +1,6 @@
 ## **장예훈**
-E-mail: jangyh0420@gmail.com</br>
-연락처: +82 10-7169-2690</br>
+E-mail: jangyh0420@gmail.com  
+연락처: +82 10-7169-2690  
 Github: [https://github.com/YeHoonJang][1]
 *****
 ### 학력
@@ -11,7 +11,7 @@ Github: [https://github.com/YeHoonJang][1]
 
 ### 프로젝트
 - **2020 빅콘테스트**  
-  * 혁신아이디어분야 참가 <데일리 코로나> - Pandas, GeoPandas, Numpy, ScikitLearn, Keras, etc.  
+  * 혁신아이디어분야 참가 <데일리 코로나> - Pandas, GeoPandas, Numpy, ScikitLearn, Keras, etc. ([보고서][26])  
 
 - **2018 겨울 ~ 2019 - QoE 데이터 이상감지 탐지**
   * QoE 데이터 분석 및 모델 학습 - Pandas, Numpy, ScikitLearn ([발표자료][25])
@@ -144,3 +144,4 @@ activation functions, details ([발표자료][13])
 [23]: https://github.com/ini-intern/report/blob/master/final_project/yehoon_final_project_report.md
 [24]: https://github.com/ini-intern/report/tree/master/final_project/source
 [25]: https://github.com/YeHoonJang/report/blob/master/abnormaly_project/ini-intern%20final%20project.pdf
+[26]: https://github.com/YeHoonJang/ppt/blob/master/2020/혁신아이디어분야_금요일에만나요팀_결과보고서%20최종.pdf
